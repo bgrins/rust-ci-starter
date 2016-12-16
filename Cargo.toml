@@ -1,0 +1,5 @@
+[package]
+name = "rust-ci-starter"
+version = "0.1.0"
+
+[dependencies]
