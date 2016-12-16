@@ -1,0 +1,1 @@
+Files in this folder aren't ran by default and can be used for shared modules: https://doc.rust-lang.org/book/testing.html#the-tests-directory
